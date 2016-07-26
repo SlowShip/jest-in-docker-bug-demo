@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "mocha --reporter nyan --recursive"
   },
   "author": "SlowShip",
   "license": "MIT",
   "devDependencies": {
-    "jest-cli": "^13.2.3"
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
   }
 }
