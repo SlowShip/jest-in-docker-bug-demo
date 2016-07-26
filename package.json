@@ -1,0 +1,14 @@
+{
+  "name": "jest_bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "SlowShip",
+  "license": "MIT",
+  "devDependencies": {
+    "jest-cli": "^13.2.3"
+  }
+}
